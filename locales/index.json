@@ -1,0 +1,58 @@
+{
+ "languages": [
+  {
+   "code": "it",
+   "name": "Italian",
+   "native": "Italiano",
+   "version": 2,
+   "file": "it.json",
+   "sha256": "214165207b7bf8cb12eb6a22866c974f6a40b078dcbe42e44a78316dce1a8a6a",
+   "size": 28141
+  },
+  {
+   "code": "es",
+   "name": "Spanish",
+   "native": "Español",
+   "version": 2,
+   "file": "es.json",
+   "sha256": "6f5c8e5913fe8dd20183b032a29f77e4b3f283d4140d05b58738f1c87d229341",
+   "size": 29096
+  },
+  {
+   "code": "de",
+   "name": "German",
+   "native": "Deutsch",
+   "version": 2,
+   "file": "de.json",
+   "sha256": "e3a642aa6a9cce5c0c3d14cf7f31a3e14aa3d9919e8fb0a7b714817e14a0adf7",
+   "size": 29659
+  },
+  {
+   "code": "fr",
+   "name": "French",
+   "native": "Français",
+   "version": 2,
+   "file": "fr.json",
+   "sha256": "45c0872ae6aeb2a3369d73d6a65e9d92e470ca1acc683fe34a0eb6043ca0ebe9",
+   "size": 29936
+  },
+  {
+   "code": "zh",
+   "name": "Chinese (Mandarin)",
+   "native": "中文（普通话）",
+   "version": 2,
+   "file": "zh.json",
+   "sha256": "6cf22752bceb0b1151b5a8f1dd0272d9094f57d88b91d605eacd0d3a48386fdd",
+   "size": 25996
+  },
+  {
+   "code": "ja",
+   "name": "Japanese",
+   "native": "日本語",
+   "version": 2,
+   "file": "ja.json",
+   "sha256": "5a5fdd2d816b8d6cb22688e205e1892904534a464dd14d1938cad3b0826507cf",
+   "size": 34152
+  }
+ ]
+}
